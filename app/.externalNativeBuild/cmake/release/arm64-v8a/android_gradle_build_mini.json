@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/alpha/GitRepository/AndroidWorkspace/HelloKotlin/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/alpha/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/alpha/GitRepository/AndroidWorkspace/HelloKotlin/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/alpha/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/alpha/GitRepository/AndroidWorkspace/HelloKotlin/app/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/alpha/GitRepository/AndroidWorkspace/HelloKotlin/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}
